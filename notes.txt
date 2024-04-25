@@ -1,0 +1,7 @@
+project: auth
+app: users
+
+Learnt session authentication in this api project
+
+Session Authentication: Token does not expire
+Lib used: PyJWT
